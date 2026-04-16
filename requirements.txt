@@ -1,0 +1,16 @@
+langchain-core==1.2.14
+langchain-openai==1.1.10
+langchain-community==0.4.1
+langchain-classic==1.0.1
+python-dotenv==1.2.1
+requests
+
+# TP additions
+langchain
+psycopg2-binary
+fastapi
+uvicorn[standard]
+streamlit
+yfinance
+tavily-python
+langchain-experimental
